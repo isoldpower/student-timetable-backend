@@ -1,4 +1,10 @@
 venv
 __pycache__
 *.pyc
+<<<<<<< HEAD
 .env
+=======
+**.DS_Store
+**/.ipynb_checkpoints/**
+**/data/GoogleNews-vectors-negative300.bin
+>>>>>>> banislav/recsys
