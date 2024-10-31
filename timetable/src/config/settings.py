@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'apps.preferences.apps.PreferencesConfig',
-    'apps.student_schedule.apps.StudentScheduleConfig'
+    'apps.schedule.apps.ScheduleConfig'
 ]
 
 MIDDLEWARE = [
